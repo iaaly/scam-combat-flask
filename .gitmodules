@@ -1,0 +1,3 @@
+[submodule "frontend/scam-combat-react"]
+	path = frontend/scam-combat-react
+	url = https://github.com/iaaly/scam-combat-react.git
