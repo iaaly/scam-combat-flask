@@ -1,3 +1,4 @@
 [submodule "frontend/scam-combat-react"]
 	path = frontend/scam-combat-react
 	url = git@github.com:iaaly/scam-combat-react.git
+	branch = main
